@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
- =======
+
 I am a Richland High School student who is interested in coding activities and enjoys playing games online with friends. I have always been interested in technology and coding has been a fun learning experience as I learn how to make projects I am proud of.
 
 Skills
