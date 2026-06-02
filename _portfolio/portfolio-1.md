@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Java Tic Tac Toe'
+excerpt: "A game of tic tac toe made in java.<br/><img src='/images/ttt.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A CLI based game of Tic Tac Toe that alternates turns and is made in Java. Shows proficiency in 2D arrays and the Scanner class, through learning those skills and solved a lot of debugging issues.
