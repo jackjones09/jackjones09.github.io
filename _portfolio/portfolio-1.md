@@ -1,5 +1,5 @@
 ---
-title: "Java Tic Tac Toe'
+title: "Java Tic Tac Toe"
 excerpt: "A game of tic tac toe made in java.<br/><img src='/images/ttt.png'>"
 collection: portfolio
 ---
